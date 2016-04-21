@@ -9,7 +9,7 @@ public class CalculatorView extends JFrame{
 	private JButton calculateButton = new JButton("Calculate");
 	private JTextField calcSolution = new JTextField(10);
 	
-	public CalculatorView(){
+	public CalculatorView() {
 		
 		JPanel calcPanel = new JPanel();
 		
